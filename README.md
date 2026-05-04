@@ -8,7 +8,7 @@ Engine (Motor gráfico) & Jogo/App de simulação espacial.
   
 * Niveis técnicos e didáticos que nao afetam funcionamento: Tamanhos e distancias reais **OU** Tamanhos e distancias humanamente compreensiveis, para entendimento didático real e factual sem dificuldades.
   
-* Dados e estatisticas reais! O simulador nao sabe que um ano terrestre dura 365 dias, ou o que é um ano bissexto, ele calcula em tempo real o fim da translação da terra e nos da o resultados em dias humanos; o principal foco do simulador é esse! ELe nao trabalha com quase nenhuma instrução, ele calcula! Outro exemplo é que ele não sabe que a terra custuma de aproximar do sól em certos periodos, mas ele calcula em tempo real e devolve o resultado na sua tela, completamente compativel com a realidade!
+* Dados e estatisticas reais! O simulador nao sabe que um ano terrestre dura 365 dias, ou o que é um ano bissexto, ele calcula em tempo real o fim da translação da terra e nos da o resultados em dias humanos; o principal foco do simulador é esse! ELe nao trabalha com quase nenhuma instrução, ele calcula! Outro exemplo é que ele não sabe que a terra custuma se aproximar do sól em certos periodos, mas ele calcula em tempo real e devolve o resultado na sua tela, completamente compativel com a realidade!
 
 * Isso se deve aos calculos como os de Riemenn, Einsten (relatividade e espaço/tempo) e alguns de Hawking. São os mesmos calculos que nos possibilitam saber de informaçoes interestelares, é como uma visualização real das contas de lousa.
   
